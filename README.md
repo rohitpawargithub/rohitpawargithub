@@ -1,6 +1,6 @@
 ![logo](banner.png)
 
-<h1 align="center">Hi 👋, I'm Gaurav Sidharth Bharane</h1>
+<h1 align="center">Hi 👋, I'm Rohit Pawar</h1>
 <h3 align="center">Cloud, DevOps & AI Enthusiast | RHCSA & RHCE | Azure | Linux | Automation</h3>
 
 <br/>
@@ -22,16 +22,15 @@
 
 <table>
 <tr>
-<td><a href="https://twitter.com/gaurav_bharane"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/></a></td>
-<td><a href="https://linkedin.com/in/gaurav-bharane"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a></td>
-<td><a href="https://medium.com/@gauravbharane"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40"/></a></td>
+<td><a href="https://github.com/rohitpawargithub"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" height="30" width="40"/></a></td>
+<td><a href="https://www.linkedin.com/in/rohit-pawar-4b4363285/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a></td>
 </tr>
 </table>
 
 ---
 
 ### 💼 Projects
-- 🔭 Working on: [KnotGPT](https://github.com/Gauravbharane/knotgpt.git)
+- 🔭 Working on: [KnotGPT](https://github.com/rohitpawargithub/knotgpt)
 
 ---
 
@@ -66,13 +65,13 @@ Linux | Red Hat | Azure | DevOps | Cloud | Automation
 
 ### 📊 GitHub Stats
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravbharane&show_icons=true&locale=en&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitpawargithub&show_icons=true&locale=en&layout=compact" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gauravbharane&show_icons=true&locale=en" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitpawargithub&show_icons=true&locale=en" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravbharane" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitpawargithub" />
 </p>
