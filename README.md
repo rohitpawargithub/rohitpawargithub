@@ -1,7 +1,7 @@
 ![logo](banner.png)
 
 <h1 align="center">Hi 👋, I'm Rohit Pawar</h1>
-<h3 align="center">Cloud, DevOps & AI Enthusiast | RHCSA & RHCE | Azure | Linux | Automation</h3>
+<h3 align="center">Cloud, DevOps & AI Enthusiast | RHCSA & RHCE | AWS | Linux | Automation</h3>
 
 <br/>
 
@@ -13,8 +13,8 @@
 - ☁️ Passionate about **Cloud, DevOps & AI**
 - 🧑‍💻 Strong in **Linux & Red Hat Technologies (RHCSA, RHCE)**
 - ⚡ Hands-on with **Terraform, Ansible, Docker & CI/CD (Jenkins)**
-- 🤖 Certified in **Azure AI-900 (Azure AI Fundamentals)**
-- 📈 Continuously learning **Azure, Cloud Security & Automation**
+- 🤖 Certified in **AWS Cloud Practitioner Essentials**
+- 📈 Continuously learning **AWS, Cloud Security & Automation**
 
 ---
 
@@ -35,7 +35,7 @@
 ---
 
 ### 🌱 Currently Learning
-- Microsoft Azure ☁️  
+- AWS ☁️  
 - Terraform & Infrastructure as Code  
 - Ansible Automation  
 - CI/CD with Jenkins  
@@ -44,7 +44,7 @@
 ---
 
 ### 💬 Ask Me About
-Linux | Red Hat | Azure | DevOps | Cloud | Automation  
+Linux | Red Hat | AWS | DevOps | Cloud | Automation  
 
 ---
 
